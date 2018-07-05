@@ -6,7 +6,7 @@
 
 
 ```yaml
-# scanners=indb.Csv
+# clients=indb.Csv
 "*": https://github.com/mindey/indb/wiki/keylogger-event
 0:
   "*": https://github.com/infamily/indb/wiki/creation-date#unix_seconds
@@ -19,7 +19,7 @@
 ### Mouse position
 
 ```yaml
-# scanners=indb.Csv
+# clients=indb.Csv
 "*": https://github.com/mindey/indb/wiki/keylogger-event
 0:
   "*": https://github.com/infamily/indb/wiki/creation-date#unix_seconds

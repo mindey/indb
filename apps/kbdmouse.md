@@ -9,7 +9,7 @@
 # clients=indb.Csv
 "*": https://github.com/mindey/ooio/wiki/keylogger-event
 0:
-  "*": https://github.com/infamily/indb/wiki/creation-date#unix_seconds
+  "*": _:creation-date#unix_seconds
 1:
   "*": https://github.com/mindey/ooio/wiki/keylog-event-type#karrow
 2:
@@ -22,7 +22,7 @@
 # clients=indb.Csv
 "*": https://github.com/mindey/ooio/wiki/keylogger-event
 0:
-  "*": https://github.com/infamily/indb/wiki/creation-date#unix_seconds
+  "*": _:creation-date#unix_seconds
 1:
   "*": https://github.com/mindey/ooio/wiki/keylog-event-type#karrow
 2:

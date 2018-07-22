@@ -14,7 +14,7 @@
 2:
   "*": https://github.com/mindey/ooio/wiki/keylog-event-value#keysym_or_keycode
 ```
-https://github.com/infamily/indb/wiki/key-press#kbdmouse-01
+https://github.com/infamily/indb/wiki/key-press#kbdmouse-01 = `_:key-press#kbdmouse-01`
 
 
 ### Mouse position
@@ -30,4 +30,4 @@ https://github.com/infamily/indb/wiki/key-press#kbdmouse-01
   "*": https://github.com/mindey/ooio/wiki/keylog-event-value#keysym_or_keycode
 ```
 
-https://github.com/infamily/indb/wiki/mouse-position#kbdmouse-01
+https://github.com/infamily/indb/wiki/mouse-position#kbdmouse-01 = `_:mouse-position#kbdmouse-01`

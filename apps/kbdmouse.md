@@ -4,7 +4,6 @@
 
 ### Key presses
 
-
 ```yaml
 # clients=indb.Csv
 "*": https://github.com/mindey/ooio/wiki/keylogger-event
@@ -15,6 +14,8 @@
 2:
   "*": https://github.com/mindey/ooio/wiki/keylog-event-value#keysym_or_keycode
 ```
+https://github.com/infamily/indb/wiki/key-press#kbdmouse-01
+
 
 ### Mouse position
 
@@ -29,3 +30,4 @@
   "*": https://github.com/mindey/ooio/wiki/keylog-event-value#keysym_or_keycode
 ```
 
+https://github.com/infamily/indb/wiki/mouse-position#kbdmouse-01

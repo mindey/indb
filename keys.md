@@ -4,7 +4,6 @@ _:credential: LS0tLS1CRUdJTiBQR1AgTUVTU0FHRS0tLS0tCgpoUUlNQXlnclBRTEM4bDQ4QVEvK0
 _:identities: [5AFDB16B89805133F450688BDA580D1D5F5CC7AD]                             
 _:tokens:          
     - {'_:token': '', '_:valid_until': ''}   
-_:uuid: be3c9516-8c0b-11e8-ab4a-28b2bdaeb5e6
 ```
 
 ## Google-01
@@ -13,5 +12,4 @@ _:credential: LS0tLS1CRUdJTiBQR1AgTUVTU0FHRS0tLS0tCgpoUUlNQXlnclBRTEM4bDQ4QVJBQX
 _:identities: [5AFDB16B89805133F450688BDA580D1D5F5CC7AD]                             
 _:sessions:        
     - {'_:token': '', '_:valid_until': ''}   
-_:uuid: a225d1e4-8c0b-11e8-ab4a-28b2bdaeb5e6
 ```
